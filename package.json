@@ -1,0 +1,29 @@
+{
+    "name": "jquery.loading-indicator",
+    "version": "0.3",
+    "title": "jQuery.Loading-Indicator()",
+    "author": {
+        "name": "Maxime Thirouin",
+        "url": "http://MoOx.fr/"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://moox.mit-license.org/"
+        },
+    ],
+    "dependencies": {
+        "jquery": ">1.2.3"
+    },
+    "description": "A simple jQuery plugin to help you with your (multiple) loading indicator(s)",
+    "keywords": [
+        "loading",
+        "loader",
+        "ajax",
+        "async",
+    ],
+    "homepage": "https://MoOx.github.com/jQuery.Loading-Indicator",
+    "files": [
+        "jquery.loading-indicator.js"
+    ]
+}
